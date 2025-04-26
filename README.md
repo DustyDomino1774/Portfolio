@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio repository
+Portfolio repository for school work
